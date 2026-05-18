@@ -1,0 +1,52 @@
+{
+  "nav": { "dashboard": "Dashboard", "analytics": "Analytics", "settings": "Settings", "sign_out": "Sign Out" },
+  "dashboard": {
+    "greeting": "Good morning", "compliance_score": "Compliance Score",
+    "scan_license": "Scan License", "add_license": "Add License",
+    "days_left": "days left", "expired": "EXPIRED", "expiring": "Expiring Soon",
+    "active": "Active", "renew_now": "Renew Now", "view_details": "View Details",
+    "total_licenses": "Total Licenses", "compliant": "Compliant",
+    "penalty_exposure": "Penalty Exposure", "next_expiry": "Next Expiry",
+    "no_licenses": "No licenses added yet",
+    "no_licenses_sub": "Scan or add your first license to start tracking",
+    "demo_banner": "📊 Demo Mode — Sample restaurant data loaded",
+    "exit_demo": "Exit Demo",
+    "alert_expired": "licenses expired — Total penalty exposure:"
+  },
+  "scan": {
+    "title": "Scan License Document", "upload_title": "Scan License Document",
+    "upload_sub": "Drop your license document here, or click to browse",
+    "take_photo": "Take a Photo", "supported": "Supports JPG, PNG, PDF",
+    "low_confidence": "Low confidence — please verify all fields",
+    "poor_quality": "Poor image quality — consider retaking",
+    "confirm_save": "Confirm & Save", "retake": "Retake",
+    "success": "License added successfully!", "view_dashboard": "View Dashboard",
+    "results_title": "Extracted License Data"
+  },
+  "license": {
+    "license_number": "License Number", "issuing_authority": "Issuing Authority",
+    "issue_date": "Issue Date", "expiry_date": "Expiry Date",
+    "penalty_exposure": "Penalty Exposure", "renew_section": "Renewal",
+    "office_locator": "Govt. Office Locator", "confidence": "AI Confidence"
+  },
+  "common": { "loading": "Loading...", "error": "Something went wrong", "back": "Back", "save": "Save", "cancel": "Cancel", "close": "Close" },
+  "settings": {
+    "title": "Settings", "business_profile": "Business Profile",
+    "notifications": "Notification Preferences", "email_reminders": "Email Reminders",
+    "reminder_timing": "Remind me before expiry", "language": "Language",
+    "dark_mode": "Dark Mode", "account": "Account", "save_changes": "Save Changes",
+    "demo_mode": "Demo Mode", "load_demo": "Load Demo Business",
+    "display": "Display", "saved": "Changes saved!"
+  },
+  "analytics": {
+    "title": "Compliance Analytics", "savings_title": "Penalties Avoided",
+    "score_trend": "Score Trend (6 months)", "distribution": "License Status",
+    "upcoming": "Upcoming Renewals", "savings_table": "Penalty Savings",
+    "license_col": "License", "avoided_col": "Penalty Avoided"
+  },
+  "onboarding": {
+    "step1": "Verify Email", "step2": "Business Type", "step3": "Business Profile",
+    "send_otp": "Send OTP", "verify": "Verify & Continue", "complete": "Complete Setup",
+    "business_type_q": "What type of business do you run?"
+  }
+}
